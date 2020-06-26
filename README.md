@@ -1,4 +1,4 @@
-# wordpress-theme-one
+# first wordpress theme
 Will make another theme soon
 
 On vendor directory create new folder and name it typed
